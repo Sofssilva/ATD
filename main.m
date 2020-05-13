@@ -11,7 +11,6 @@ for i=1: size(Expr,2)
     headerlinesIn = 1;
     format long
     A = importdata(filename,delimiterIn,headerlinesIn);
-    disp(A.data)
-    disp(i)
-    disp(j)
+    dividir_graf(A.data,filename,i);
 end
+ 
