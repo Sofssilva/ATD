@@ -13,4 +13,7 @@ for i=1: size(Expr,2)
     A = importdata(filename,delimiterIn,headerlinesIn);
     dividir_graf(A.data,filename,i);
 end
- 
+
+%Exercício 5
+accZ = A.data(:,3);
+mystft(accZ);
