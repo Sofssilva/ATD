@@ -1,19 +1,17 @@
-Expr={'01','02','03','04','05','06','07','08','09','10'};
-User={'01','02','03','04','05'};
+data1 = importfile('acc_exp01_user01.txt');
+data2 = importfile('acc_exp02_user01.txt');
+data3 = importfile('acc_exp03_user02.txt');
+data4 = importfile('acc_exp04_user02.txt');
+data5 = importfile('acc_exp05_user03.txt');
+data6 = importfile('acc_exp06_user03.txt');
+data7 = importfile('acc_exp07_user04.txt');
+data8 = importfile('acc_exp08_user04.txt');
+data9 = importfile('acc_exp09_user05.txt');
+data10 = importfile('acc_exp10_user05.txt');
 
-j = 0;	
-for i=1: size(Expr,2)
-    if mod(i,2)~= 0
-        j = j + 1;
-    end
-    filename = strcat('./RawData/acc_exp',Expr{1,i},'_user',User{1,j},'.txt');
-    delimiterIn = ' ';
-    headerlinesIn = 1;
-    format long
-    A = importdata(filename,delimiterIn,headerlinesIn);
-    dividir_graf(A.data,filename,i);
-end
+
+
 
 %Exercício 5
-accZ = A.data(:,3);
+accZ = data10(:,3);
 mystft(accZ);
