@@ -16,10 +16,10 @@ A = aac_X(250:1232);
 A = detrend(A);
 a = fftshift(fft(A));
 m_a = abs(a);
-subplot(10,3,1)
+%subplot(10,3,1)
 plot(f,m_a) 
 hold on
-title('|DFT| do sinal', tipo);
+title('|DFT| do sinal');
 ylabel('Magnitude = |X|')
 xlabel('f [Hz]')
 end
