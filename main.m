@@ -15,9 +15,6 @@ data10 = importfile('acc_exp10_user05.txt');
 label = handler_label(1);
 dFt(data1, label)
 
-janelas(label,1)
-
-
 
 %Exercício 5
 accZ = data10(:,3);
