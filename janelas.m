@@ -5,7 +5,6 @@ function matriz_atividades=janelas(matriz_exp,atividade)
     for i=1:size(matriz_exp,1)
         if matriz_exp(i,3)==atividade
             matriz_atividades =matriz_exp(i,:);
-            disp(size(matriz_exp,1))
             j=j+1;
         end
     end
