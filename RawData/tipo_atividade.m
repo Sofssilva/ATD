@@ -21,7 +21,7 @@ function tipo = tipo_atividade(id_atividade)
         tipo = "LIE_TO_SIT"  
     elseif 11 == id_atividade
         tipo = "STAND_TO_LIE"  
-    else
+    elseif 12 == id_atividade
         tipo = "LIE_TO_STAND"
     end
 end

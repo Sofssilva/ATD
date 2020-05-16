@@ -9,9 +9,11 @@ data7 = importfile('acc_exp07_user04.txt');
 data8 = importfile('acc_exp08_user04.txt');
 data9 = importfile('acc_exp09_user05.txt');
 data10 = importfile('acc_exp10_user05.txt');
-
+labels = handler_label(1);
 
 %Exercicio 4
+while labels(1)~= epx
+    i
 dFt(data1)
 
 %Exercício 5
