@@ -12,7 +12,12 @@ data10 = importfile('acc_exp10_user05.txt');
 
 
 %Exercicio 4
-dFt(data1)
+label = handler_label(1);
+dFt(data1, label, 1)
+
+janelas(label,1)
+
+
 
 %Exercício 5
 accZ = data10(:,3);

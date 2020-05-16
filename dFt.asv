@@ -1,4 +1,4 @@
-function dFt(data, labels, j)
+function dFt(data, labels)
 aac_X = data(:,1);
 for i = 1: 12
     N = length(aac_X(labels(i,4):labels(i,5)));
@@ -22,8 +22,8 @@ for i = 1: 12
     nome = '|DFT| do sinal - ';
     num = tipo_atividade(labels(i,3));
     title(strcat(nome,num));
-    ylabel('|X|')
-    xlabel('[Hz]')
+    ylabel('Magnitude = |X|')
+    xlabel('f [Hz]')
 end
 
 
