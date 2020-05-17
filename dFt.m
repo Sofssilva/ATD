@@ -18,7 +18,7 @@ for i = 1: 12
     X = detrend(X);
     x = fftshift(fft(X));
     m_X = abs(x);
-    figure(1)
+    figure(11)
     subplot(12,1,i)
     plot(f,m_X) 
     xlim([0,8]);
@@ -46,7 +46,7 @@ for j = 1: 12
     Y = detrend(Y);
     y = fftshift(fft(Y));
     m_Y = abs(y);
-    figure(2)
+    figure(12)
     subplot(12,1,j)
     plot(f,m_Y) 
     xlim([0,8]);
@@ -73,7 +73,7 @@ for k = 1: 12
     Z = detrend(Z);
     z = fftshift(fft(Z));
     m_Z = abs(z);
-    figure(3)
+    figure(13)
     subplot(12,1,k)
     plot(f,m_Z)
     xlim([0,8]);
