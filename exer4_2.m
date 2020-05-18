@@ -18,7 +18,7 @@ function [media,desvio_padrao] =exer4_2(data,exp,exo,atividade)
         eixo = data(:,3);
     end
     arquivo = fopen("infor.txt", "a");
-    fprintf(arquivo,"Ficheiro: %d - eixo %s\n\n",exp,exo);
+    fprintf(arquivo,"Ficheiro: %d - eixo %s- atividade %s\n",exp,exo,atividade);
     for i=1:size(matriz_atividade,1)
         N = length(eixo(matriz_atividade(i,4):matriz_atividade(i,5)));
         if (mod(N,2)==0)
@@ -32,9 +32,10 @@ function [media,desvio_padrao] =exer4_2(data,exp,exo,atividade)
         conj_valor = detrend(conj_valor);
         dft = fftshift(fft(conj_valor));
         abs_dft = abs(dft);
+        in =find(f>0)
         nf = f(f>0);
-        maxi = max(abs_dft);
-        [pks,locs] = findpeaks(abs_dft,'MinPeakHeight',maxi*0.4);
+        maxi = max(abs_dft(in));
+        [pks,locs] = findpeaks(abs_dft(in),'MinPeakHeight',maxi*0.4);
         freq=nf(locs(1));
         n_passos = freq*60;
         matriz(1,i)=n_passos;
