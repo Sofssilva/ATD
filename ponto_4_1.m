@@ -10,7 +10,7 @@ black = fftshift(fft(detrend(dados).*blackman(numel(dados))));
 figure(num)
 subplot(2,2,1)
 plot(freq, amp)
-xlim([0,8]);
+xlim([0,30]);
 nome = strcat(nome_atividade, " DFT");
 title(nome)
 

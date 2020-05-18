@@ -48,17 +48,8 @@ for j = 1: 12
     y = fftshift(fft(Y));
     m_Y = abs(y);
     tit = tipo_atividade(yy(1,3));
-    ponto_4_1(f, m_Y,j+13, Y, tit)
-    figure(12)
-    subplot(12,1,j)
-    plot(f,m_Y)
-    xlim([0,8]);
-    hold on
-    nome = 'Y |DFT| do sinal - ';
-    num = tipo_atividade(yy(1,3));
-    title(strcat(nome,num));
-    ylabel('|X|')
-    xlabel('[Hz]')
+    ponto_4_1(f, m_Y,j+12, Y, tit)
+    
     
     
 end
@@ -78,7 +69,7 @@ for k = 1: 12
     Z = detrend(Z);
     z = fftshift(fft(Z));
     m_Z = abs(z);
-    figure(13)
+    figure(12)
     subplot(12,1,k)
     plot(f,m_Z)
     xlim([0,8]);
