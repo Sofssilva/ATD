@@ -1,0 +1,39 @@
+function ponto_4_3(data)
+figure(26);
+labels = handler_label(1);
+aac_X = data(:,1);
+aac_Y = data(:,2);
+aac_Z = data(:,3);
+
+cores=["y+","m+","g+","yo","mo","go","y>","m>","g>","r>","c>","b>"];
+
+
+grid on
+hold on
+for i = 1: 12
+    matriz = janelas(labels,i);
+    picosX=media(matriz,aac_X);
+    
+   
+    matriz = janelas(labels,i);
+    picosY=media(matriz,aac_Y);
+    
+    
+    matriz = janelas(labels,i);
+    picosZ=media(matriz,aac_Z);
+    
+    %disp(numel(picosX));
+    %disp(picosX);
+    
+    for j=1:numel(picosX)
+        %disp("sup");
+        %disp(j);
+        plot3(picosX(j),picosY(j),picosZ(j), cores(i));
+        drawnow;
+    end
+end
+hold off
+legend([p(1) p(5) p(8) p11 p13 p15 p16 p17 p18 p19 p20 p21 p22],["Walking","Walking Upstairs","Walking Downstairs","Sitting","Standing","Laying","Stand to sit","Stand to stand","Stand to lie","Lie to stand","Stand to lie","Lie to stand"]);
+
+
+    

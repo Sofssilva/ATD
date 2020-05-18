@@ -14,7 +14,7 @@ data10 = importfile('acc_exp10_user05.txt');
 %Exercicio 4
 
 dFt(data1)
-
+ponto_4_3(data1);
 
 %Exercício 5
 accZ = data10(:,3);

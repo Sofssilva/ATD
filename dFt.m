@@ -5,6 +5,9 @@ labels = handler_label(1);
 aac_X = data(:,1);
 aac_Y = data(:,2);
 aac_Z = data(:,3);
+
+
+
 for i = 1: 12
     matriz = janelas(labels,i);
     tam = size(matriz,1);
@@ -30,7 +33,6 @@ for i = 1: 12
     hold on
     nome = 'X |DFT| do sinal - ';
     num = tipo_atividade(xx(1,3));
-    disp(strcat(nome,num))
     title(strcat(nome,num));
     ylabel('|X|')
     xlabel('[Hz]')
