@@ -1,4 +1,5 @@
-function dFt(data, labels)
+function dFt(data)
+labels = handler_label(1);
 aac_X = data(:,1);
 aac_Y = data(:,2);
 aac_Z = data(:,3);
@@ -46,16 +47,10 @@ for j = 1: 12
     Y = detrend(Y);
     y = fftshift(fft(Y));
     m_Y = abs(y);
-    figure(12)
-    subplot(12,1,j)
-    plot(f,m_Y) 
-    xlim([0,8]);
-    hold on
-    nome = 'Y |DFT| do sinal - ';
-    num = tipo_atividade(yy(1,3));
-    title(strcat(nome,num));
-    ylabel('|X|')
-    xlabel('[Hz]')
+    tit = tipo_atividade(yy(1,3));
+    ponto_4_1(f, m_Y,j+12, Y, tit)
+    
+    
 end
 for k = 1: 12
     zz = janelas(labels,k); 
@@ -73,7 +68,7 @@ for k = 1: 12
     Z = detrend(Z);
     z = fftshift(fft(Z));
     m_Z = abs(z);
-    figure(13)
+    figure(12)
     subplot(12,1,k)
     plot(f,m_Z)
     xlim([0,8]);

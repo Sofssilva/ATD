@@ -12,8 +12,8 @@ data10 = importfile('acc_exp10_user05.txt');
 
 
 %Exercicio 4
-label = handler_label(1);
-dFt(data1, label)
+
+dFt(data1)
 
 
 %Exercício 5
