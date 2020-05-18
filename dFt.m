@@ -8,7 +8,7 @@ aac_Z = data(:,3);
 for i = 1: 12
     matriz = janelas(labels,i);
     tam = size(matriz,1);
-    xx = matriz(tam,:)
+    xx = matriz(tam,:);
     N = length(aac_X(xx(1,4):xx(1,5))); 
     Ts = 1/50;
     fs = 1/Ts;
@@ -38,7 +38,7 @@ end
 for j = 1: 12
     matriz = janelas(labels,j);
     tam = size(matriz,1);
-    yy = matriz(tam,:)
+    yy = matriz(tam,:);
     N = length(aac_Y(yy(1,4):yy(1,5))); %vai buscar o intervalo do primeiro q encontra da atividade em causa e calcula o N
     Ts = 1/50;
     fs = 1/Ts;
@@ -69,7 +69,7 @@ end
 for k = 1: 12
     matriz = janelas(labels,k);
     tam = size(matriz,1);
-    zz = matriz(tam,:)
+    zz = matriz(tam,:);
     N = length(aac_Z(zz(1,4):zz(1,5))); %vai buscar o intervalo do primeiro q encontra da atividade em causa e calcula o N
     Ts = 1/50;
     fs = 1/Ts;
