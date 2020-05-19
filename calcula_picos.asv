@@ -1,0 +1,23 @@
+function [picos]=calcula_picos(matriz)
+    %picos=findpeaks(matriz);
+    %maxi=max(picos);
+    %val=maxi*0.40;
+    
+    %arrayPicos=picos(picos>val);
+    
+    %pico_max=arrayPicos(1);
+    f=linspace(-25,25,numel(matriz));
+    ixp=find(f>=0);
+    f=f(ixp);
+    
+    m_X = abs(matriz);
+    
+    maximo=max(m_X);
+    [pks,locs] = findpeaks(m_X,'MinPeakHeight',maximo*0.4);
+    
+    %frequencias relevantes
+    f_relevant=f(locs);
+    f_relevant=f_relevant(f_relevant>0);
+    round(f_relevant);
+    disp(f_relevant);
+    

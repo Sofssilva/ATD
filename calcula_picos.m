@@ -1,8 +1,14 @@
-function pico_max=calcula_picos(matriz)
-    picos=findpeaks(matriz);
-    maxi=max(picos);
-    val=maxi*0.40;
+function [pico_max,primeiro,ultimo]=calcula_picos(matriz)
+    f=linspace(-25,25,numel(matriz));
+    ixp=find(f>=0);
+    f=f(ixp);
     
-    arrayPicos=picos(picos>val);
+    m_X = abs(matriz);
     
-    pico_max=arrayPicos(1);
+    maximo=max(m_X);
+    [pks,locs] = findpeaks(abs(matriz(ixp)),'MinPeakHeight',maximo*0.4);
+    
+    %frequencias relevantes
+    pico_max=max(pks);
+    primeiro=f(locs(1));
+    ultimo=f(locs(numel(pks)));
