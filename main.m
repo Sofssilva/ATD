@@ -12,7 +12,7 @@ data10 = importfile('acc_exp10_user05.txt');
 
 
 %Exercicio 4
-%dFt(data1);
+dFt(data1);
 
 %Exercicio4.2
 exer4_2(data1,1,"x","W");

@@ -1,0 +1,3060 @@
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00
+Ficheiro: 1 - eixo x- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo y- atividade W
+1.080617e+02 1.039106e+02 1.086718e+02 1.056995e+02 Media: 1.065859e+02 Desvio Padrao: 2.196357e+00
+Ficheiro: 1 - eixo z- atividade W
+5.660377e+01 5.363128e+01 5.598244e+01 5.284974e+01 Media: 5.476681e+01 Desvio Padrao: 1.808937e+00
+Ficheiro: 1 - eixo x- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo y- atividade W-U
+9.033281e+01 9.009009e+01 8.915305e+01 Media: 8.985865e+01 Desvio Padrao: 6.230026e-01
+Ficheiro: 1 - eixo z- atividade W-U
+4.754358e+01 4.504505e+01 4.457652e+01 Media: 4.572172e+01 Desvio Padrao: 1.595078e+00
+Ficheiro: 1 - eixo x- atividade W-D
+9.603659e+01 1.105769e+02 1.105769e+02 Media: 1.057301e+02 Desvio Padrao: 8.394868e+00
+Ficheiro: 1 - eixo y- atividade W-D
+4.573171e+01 1.105769e+02 5.288462e+01 Media: 6.973108e+01 Desvio Padrao: 3.555388e+01
+Ficheiro: 1 - eixo z- atividade W-D
+4.573171e+01 4.326923e+01 5.288462e+01 Media: 4.729518e+01 Desvio Padrao: 4.994722e+00
+Ficheiro: 2 - eixo x- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo y- atividade W
+1.001590e+02 1.032325e+02 1.024546e+02 1.018519e+02 Media: 1.019245e+02 Desvio Padrao: 1.305671e+00
+Ficheiro: 2 - eixo z- atividade W
+4.769475e+01 5.318040e+01 5.122732e+01 5.246914e+01 Media: 5.114290e+01 Desvio Padrao: 2.436331e+00
+Ficheiro: 2 - eixo x- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo y- atividade W-U
+9.603659e+01 9.278351e+01 8.987161e+01 Media: 9.289723e+01 Desvio Padrao: 3.084060e+00
+Ficheiro: 2 - eixo z- atividade W-U
+4.573171e+01 4.418262e+01 4.279601e+01 Media: 4.423678e+01 Desvio Padrao: 1.468600e+00
+Ficheiro: 2 - eixo x- atividade W-D
+9.561753e+01 1.039261e+02 1.064815e+02 1.008000e+02 Media: 1.017063e+02 Desvio Padrao: 4.677049e+00
+Ficheiro: 2 - eixo y- atividade W-D
+1.075697e+02 7.621247e+01 1.064815e+02 1.008000e+02 Media: 9.776592e+01 Desvio Padrao: 1.467234e+01
+Ficheiro: 2 - eixo z- atividade W-D
+4.780876e+01 5.542725e+01 5.092593e+01 5.280000e+01 Media: 5.174049e+01 Desvio Padrao: 3.206075e+00
+Ficheiro: 3 - eixo x- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo y- atividade W
+1.039326e+02 1.062442e+02 Media: 1.050884e+02 Desvio Padrao: 1.634542e+00
+Ficheiro: 3 - eixo z- atividade W
+5.337079e+01 5.312209e+01 Media: 5.324644e+01 Desvio Padrao: 1.758567e-01
+Ficheiro: 3 - eixo x- atividade W-U
+9.319527e+01 9.859155e+01 9.803922e+01 Media: 9.660868e+01 Desvio Padrao: 2.968973e+00
+Ficheiro: 3 - eixo y- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo z- atividade W-U
+4.437870e+01 4.694836e+01 4.901961e+01 Media: 4.678222e+01 Desvio Padrao: 2.324911e+00
+Ficheiro: 3 - eixo x- atividade W-D
+8.733624e+01 1.006711e+02 1.140684e+02 Media: 1.006919e+02 Desvio Padrao: 1.336611e+01
+Ficheiro: 3 - eixo y- atividade W-D
+8.733624e+01 5.033557e+01 5.703422e+01 Media: 6.490201e+01 Desvio Padrao: 1.971520e+01
+Ficheiro: 3 - eixo z- atividade W-D
+4.366812e+01 5.033557e+01 5.703422e+01 Media: 5.034597e+01 Desvio Padrao: 6.683055e+00
+Ficheiro: 4 - eixo x- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo y- atividade W
+1.069364e+02 1.116856e+02 Media: 1.093110e+02 Desvio Padrao: 3.358198e+00
+Ficheiro: 4 - eixo z- atividade W
+5.491329e+01 5.584281e+01 Media: 5.537805e+01 Desvio Padrao: 6.572685e-01
+Ficheiro: 4 - eixo x- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo y- atividade W-U
+4.724409e+01 1.021070e+02 1.000000e+02 Media: 8.311702e+01 Desvio Padrao: 3.108472e+01
+Ficheiro: 4 - eixo z- atividade W-U
+4.724409e+01 4.862237e+01 5.263158e+01 Media: 4.949935e+01 Desvio Padrao: 2.798762e+00
+Ficheiro: 4 - eixo x- atividade W-D
+1.017771e+02 1.120996e+02 1.080617e+02 Media: 1.073128e+02 Desvio Padrao: 5.201885e+00
+Ficheiro: 4 - eixo y- atividade W-D
+4.846527e+01 1.120996e+02 1.080617e+02 Media: 8.954222e+01 Desvio Padrao: 3.563093e+01
+Ficheiro: 4 - eixo z- atividade W-D
+4.846527e+01 5.338078e+01 5.145798e+01 Media: 5.110134e+01 Desvio Padrao: 2.477088e+00
+Ficheiro: 5 - eixo x- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo y- atividade W
+9.122502e+01 1.013133e+02 Media: 9.626917e+01 Desvio Padrao: 7.133505e+00
+Ficheiro: 5 - eixo z- atividade W
+4.691573e+01 5.065666e+01 Media: 4.878619e+01 Desvio Padrao: 2.645240e+00
+Ficheiro: 5 - eixo x- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo y- atividade W-U
+8.419498e+01 9.569378e+01 8.545727e+01 1.069692e+02 Media: 9.307881e+01 Desvio Padrao: 1.059546e+01
+Ficheiro: 5 - eixo z- atividade W-U
+3.988183e+01 4.784689e+01 4.947526e+01 5.348460e+01 Media: 4.767215e+01 Desvio Padrao: 5.708339e+00
+Ficheiro: 5 - eixo x- atividade W-D
+1.057047e+02 1.006711e+02 9.883721e+01 Media: 1.017377e+02 Desvio Padrao: 3.555803e+00
+Ficheiro: 5 - eixo y- atividade W-D
+4.530201e+01 1.057047e+02 1.337209e+02 Media: 9.490921e+01 Desvio Padrao: 4.518720e+01
+Ficheiro: 5 - eixo z- atividade W-D
+1.510067e+01 2.516779e+01 1.744186e+01 Media: 1.923677e+01 Desvio Padrao: 5.268110e+00
+Ficheiro: 6 - eixo x- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo y- atividade W
+1.023785e+02 1.025641e+02 Media: 1.024713e+02 Desvio Padrao: 1.312478e-01
+Ficheiro: 6 - eixo z- atividade W
+5.274043e+01 5.128205e+01 Media: 5.201124e+01 Desvio Padrao: 1.031233e+00
+Ficheiro: 6 - eixo x- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo y- atividade W-U
+9.237537e+01 1.004785e+02 9.463722e+01 Media: 9.583035e+01 Desvio Padrao: 4.181236e+00
+Ficheiro: 6 - eixo z- atividade W-U
+4.398827e+01 4.784689e+01 4.731861e+01 Media: 4.638459e+01 Desvio Padrao: 2.092017e+00
+Ficheiro: 6 - eixo x- atividade W-D
+8.683068e+01 7.578009e+01 1.053512e+02 Media: 8.932065e+01 Desvio Padrao: 1.494196e+01
+Ficheiro: 6 - eixo y- atividade W-D
+4.341534e+01 4.457652e+01 8.528428e+01 Media: 5.775871e+01 Desvio Padrao: 2.384491e+01
+Ficheiro: 6 - eixo z- atividade W-D
+4.341534e+01 2.228826e+01 1.505017e+01 Media: 2.691792e+01 Desvio Padrao: 1.473842e+01
+Ficheiro: 7 - eixo x- atividade W
+1.126638e+02 1.152738e+02 Media: 1.139688e+02 Desvio Padrao: 1.845563e+00
+Ficheiro: 7 - eixo y- atividade W
+1.126638e+02 5.763689e+01 Media: 8.515032e+01 Desvio Padrao: 3.890987e+01
+Ficheiro: 7 - eixo z- atividade W
+5.764192e+01 5.763689e+01 Media: 5.763940e+01 Desvio Padrao: 3.559427e-03
+Ficheiro: 7 - eixo x- atividade W-U
+7.643312e+01 9.224012e+01 9.419152e+01 Media: 8.762159e+01 Desvio Padrao: 9.738497e+00
+Ficheiro: 7 - eixo y- atividade W-U
+3.821656e+01 9.224012e+01 9.419152e+01 Media: 7.488273e+01 Desvio Padrao: 3.176882e+01
+Ficheiro: 7 - eixo z- atividade W-U
+3.821656e+01 4.392387e+01 4.709576e+01 Media: 4.307873e+01 Desvio Padrao: 4.499527e+00
+Ficheiro: 7 - eixo x- atividade W-D
+9.338521e+01 1.071429e+02 8.786611e+01 9.921260e+01 Media: 9.690169e+01 Desvio Padrao: 8.250841e+00
+Ficheiro: 7 - eixo y- atividade W-D
+4.669261e+01 5.357143e+01 4.184100e+01 9.921260e+01 Media: 6.032941e+01 Desvio Padrao: 2.636510e+01
+Ficheiro: 7 - eixo z- atividade W-D
+4.669261e+01 5.357143e+01 8.368201e+00 5.196850e+01 Media: 4.015019e+01 Desvio Padrao: 2.139081e+01
+Ficheiro: 8 - eixo x- atividade W
+1.159420e+02 1.203704e+02 Media: 1.181562e+02 Desvio Padrao: 3.131310e+00
+Ficheiro: 8 - eixo y- atividade W
+1.159420e+02 5.864198e+01 Media: 8.729200e+01 Desvio Padrao: 4.051726e+01
+Ficheiro: 8 - eixo z- atividade W
+5.797101e+01 5.864198e+01 Media: 5.830649e+01 Desvio Padrao: 4.744409e-01
+Ficheiro: 8 - eixo x- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo y- atividade W-U
+1.000000e+02 1.004785e+02 1.021070e+02 Media: 1.008618e+02 Desvio Padrao: 1.104556e+00
+Ficheiro: 8 - eixo z- atividade W-U
+5.000000e+01 4.784689e+01 5.348460e+01 Media: 5.044383e+01 Desvio Padrao: 2.844941e+00
+Ficheiro: 8 - eixo x- atividade W-D
+9.950249e+01 1.075269e+02 1.081081e+02 Media: 1.050458e+02 Desvio Padrao: 4.809460e+00
+Ficheiro: 8 - eixo y- atividade W-D
+1.492537e+01 1.612903e+01 1.081081e+01 Media: 1.395507e+01 Desvio Padrao: 2.788724e+00
+Ficheiro: 8 - eixo z- atividade W-D
+4.975124e+01 5.376344e+01 5.405405e+01 Media: 5.252291e+01 Desvio Padrao: 2.404730e+00
+Ficheiro: 9 - eixo x- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo y- atividade W
+1.006178e+02 1.027397e+02 Media: 1.016788e+02 Desvio Padrao: 1.500408e+00
+Ficheiro: 9 - eixo z- atividade W
+5.030891e+01 5.283757e+01 Media: 5.157324e+01 Desvio Padrao: 1.788032e+00
+Ficheiro: 9 - eixo x- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo y- atividade W-U
+9.170306e+01 9.921260e+01 9.859155e+01 Media: 9.650240e+01 Desvio Padrao: 4.167938e+00
+Ficheiro: 9 - eixo z- atividade W-U
+4.366812e+01 4.724409e+01 4.694836e+01 Media: 4.595352e+01 Desvio Padrao: 1.984732e+00
+Ficheiro: 9 - eixo x- atividade W-D
+9.633028e+01 1.016129e+02 1.086207e+02 Media: 1.021880e+02 Desvio Padrao: 6.165354e+00
+Ficheiro: 9 - eixo y- atividade W-D
+9.633028e+01 1.935484e+01 1.086207e+02 Media: 7.476860e+01 Desvio Padrao: 4.838158e+01
+Ficheiro: 9 - eixo z- atividade W-D
+4.587156e+01 4.838710e+01 5.689655e+01 Media: 5.038507e+01 Desvio Padrao: 5.777675e+00
+Ficheiro: 10 - eixo x- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo y- atividade W
+1.114754e+02 1.092715e+02 Media: 1.103735e+02 Desvio Padrao: 1.558383e+00
+Ficheiro: 10 - eixo z- atividade W
+5.573770e+01 5.629139e+01 Media: 5.601455e+01 Desvio Padrao: 3.915150e-01
+Ficheiro: 10 - eixo x- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo y- atividade W-U
+1.010101e+02 1.001757e+02 1.050788e+02 Media: 1.020882e+02 Desvio Padrao: 2.623311e+00
+Ficheiro: 10 - eixo z- atividade W-U
+5.050505e+01 5.272408e+01 5.253940e+01 Media: 5.192284e+01 Desvio Padrao: 1.231312e+00
+Ficheiro: 10 - eixo x- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo y- atividade W-D
+1.084337e+02 1.188679e+02 1.158088e+02 Media: 1.143702e+02 Desvio Padrao: 5.363804e+00
+Ficheiro: 10 - eixo z- atividade W-D
+5.679862e+01 6.226415e+01 5.514706e+01 Media: 5.806994e+01 Desvio Padrao: 3.724976e+00

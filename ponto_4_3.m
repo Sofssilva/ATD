@@ -13,15 +13,15 @@ grid on
 hold on
 for i = 1: 12
     matriz = janelas(labels,i);
-    picosX=media(matriz,aac_X);
+    picosX=calcula_maximo(matriz,aac_X);
     
    
     matriz = janelas(labels,i);
-    picosY=media(matriz,aac_Y);
+    picosY=calcula_maximo(matriz,aac_Y);
     
     
     matriz = janelas(labels,i);
-    picosZ=media(matriz,aac_Z);
+    picosZ=calcula_maximo(matriz,aac_Z);
     
     %disp(numel(picosX));
     %disp(picosX);
