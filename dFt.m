@@ -33,10 +33,10 @@ for i = 1: 12
     hold on
     nome = 'X |DFT| do sinal - ';
     num = tipo_atividade(xx(1,3));
-    ponto_4_4(f, m_X, xx(1,3))
     title(strcat(nome,num));
     ylabel('|X|')
     xlabel('[Hz]')
+    %ponto_4_4(f, m_X, xx(1,3))
 end
 for j = 1: 12
     matriz = janelas(labels,j);

@@ -1,4 +1,4 @@
-function [picos] = calcula_maximo(matriz,aac)
+function [picos] = calcula_relevantes(matriz,aac)
 
 tam=size(matriz(:,1));
 picos=[];

@@ -149,5 +149,12 @@ exer4_2(data9,9,"y","W-D");
  exer4_2(data10,10,"z","W-D");
 
  
-ponto_4_3(data1);
+ %Exercício 4.3/4.4
+ ponto_4_3(data1,1);
+ 
+ 
+ 
+ %Exercício 5
+ accZ=data1(:,3);
+ mystft(accZ);
 

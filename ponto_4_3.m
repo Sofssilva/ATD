@@ -1,6 +1,6 @@
-function ponto_4_3(data)
+function ponto_4_3(data,n)
 figure(26);
-labels = handler_label(1);
+labels = handler_label(n);
 aac_X = data(:,1);
 aac_Y = data(:,2);
 aac_Z = data(:,3);
@@ -13,17 +13,17 @@ plotsU=[];
 
 for i = 1: 12
     matriz = janelas(labels,i);
-    picosX=calcula_maximo(matriz,aac_X);
+    picosX=calcula_relevantes(matriz,aac_X);
     disp(picosX);
     
    
     matriz = janelas(labels,i);
-    picosY=calcula_maximo(matriz,aac_Y);
+    picosY=calcula_relevantes(matriz,aac_Y);
     %disp(picosY);
     
     
     matriz = janelas(labels,i);
-    picosZ=calcula_maximo(matriz,aac_Z);
+    picosZ=calcula_relevantes(matriz,aac_Z);
     %disp(picosZ);
 
     if i<=3 %atividade dinamica
