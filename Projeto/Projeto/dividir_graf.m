@@ -12,8 +12,7 @@ function dividir_graf(matriz_dados,filename,exp)
         colorir_graf(matriz_dados(:,i),matriz_label);
         hold off;
         ylabel(graf{1,i});
-        xlabel(graf{1,size(graf,2)});
-        
+        xlabel(graf{1,size(graf,2)});        
     end
 end
 
