@@ -152,6 +152,9 @@ exer4_2(data9,9,"y","W-D");
  %Exercício 4.3/4.4
  ponto_4_3(data1,1);
  
+ %Exercício 4.5
+ ponto4_5(data1);
+
  
  %Exercício 5
  accZ=data1(:,3);
